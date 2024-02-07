@@ -1,0 +1,12 @@
+import arrow from '@/assets/icons/arrow.svg?react';
+import heart from '@/assets/icons/heart.svg?react';
+import house from '@/assets/icons/house.svg?react';
+import movie from '@/assets/icons/movie.svg?react';
+import search from '@/assets/icons/search.svg?react';
+import tv from '@/assets/icons/tv.svg?react';
+export const SearchIcon = search;
+export const HouseIcon = house;
+export const MovieIcon = movie;
+export const TvIcon = tv;
+export const ArrowIcon = arrow;
+export const HeartIcon = heart;
